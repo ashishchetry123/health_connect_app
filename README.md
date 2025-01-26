@@ -18,3 +18,6 @@ Implement user authentication to allow personalized experiences.
 Add more health metrics such as sleep tracking and hydration levels.
 Enhance the UI/UX based on user feedback for better usability.
 Include a community feature for users to share their health journeys and tips.
+Screenshots:-
+![Screenshot 2025-01-27 005650](https://github.com/user-attachments/assets/ba133761-0b75-40cd-a339-0fb279f3b919)
+![Screenshot 2025-01-27 005642](https://github.com/user-attachments/assets/cb62534e-9190-469e-9613-72f5a9e3172d)
